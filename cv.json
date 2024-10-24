@@ -2,37 +2,31 @@
   "analyticsCode": "",
   "pageLayout": "two-column",
   "basics": {
-    "name": "MiraHikari",
-    "label": "Senior Full Stack Developer",
+    "name": "Álvaro Gálvez Frías",
+    "label": "Network Computer Systems Administrator & Cibersecurity",
     "image": "/avatar.png",
-    "email": "mirahikari@gcxstudio.cn",
-    "url": "https://www.gcxstudio.cn",
-    "summary": "Born in 2010, I primarily work with TypeScript and JavaScript for full-stack development, and enjoy working with various technologies.",
+    "email": "alvarogalvezfrias@gmail.com",
+    "url": "",
+    "summary": "Experienced Systems Administrator and Cybersecurity Specialist with a strong background in managing IT infrastructures and securing networks. Proficient in system administration and incident response. Committed to optimizing performance.",
     "theme": "red",
     "location": {
-      "address": "Nanchang",
-      "city": "Jiangxi Province",
+      "address": "Granada",
+      "city": "Granada",
       "countryCode": "CN",
-      "region": "China"
+      "region": "Spain"
     },
     "profiles": [
       {
-        "network": "Bilibili",
-        "icon": "ri:bilibili-line",
-        "username": "MiraHikari",
-        "url": "https://space.bilibili.com/480025691"
-      },
-      {
-        "network": "QQ",
-        "icon": "ri:qq-fill",
-        "username": "Gong_cx",
-        "url": "https://admin.qidian.qq.com/static_proxy/b2b-qq/wpa-link/index.html#/person?uin=3175992523"
+        "network": "linkedin",
+        "icon": "mdi:linkedin",
+        "username": "alvaarogalvez",
+        "url": "https://www.linkedin.com/in/alvaro-g%C3%A1lvez-fr%C3%ADas-31081221b/"
       },
       {
         "network": "GitHub",
         "icon": "mdi:github",
-        "username": "MiraHikari",
-        "url": "https://github.com/MiraHikari"
+        "username": "alvaarogalvez",
+        "url": "https://github.com/alvaarogalvez"
       }
     ],
     "beian": {
