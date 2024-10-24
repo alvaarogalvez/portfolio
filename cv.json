@@ -292,63 +292,59 @@
   ],
   "languages": [
     {
-      "language": "Chinese",
-      "fluency": "Native speaker"
+      "language": "",
+      "fluency": ""
     },
     {
-      "language": "English",
-      "fluency": "Intermediate"
+      "language": "",
+      "fluency": ""
     }
   ],
   "interests": [
     {
-      "name": "Technology",
+      "name": "",
       "keywords": [
-        "AI",
-        "Blockchain"
+        "",
+        ""
       ]
     }
   ],
   "references": [
     {
-      "name": "MiraHikari",
-      "reference": "Reference…"
+      "name": "",
+      "reference": ""
     }
   ],
   "projects": [
     {
-      "name": "Cloudflare Vmail",
+      "name": "HTTP-CHECKER",
       "image": {
-        "url": "https://i0.hdslb.com/bfs/article/985e2caa8266dee4b9861ee6a341886d480025691.png@1e_1c.webp",
+        "url": "https://www.pemavor.com/wp-content/uploads/URL-Checker-1.png.webp",
         "position": "container",
-        "dark": "https://i0.hdslb.com/bfs/article/4d0bf8a784d22e54e3e61763c361c9ef480025691.png@100q_1e_1c.webp"
+        "dark": "https://www.pemavor.com/wp-content/uploads/URL-Checker-1.png.webp"
       },
       "isActive": true,
-      "description": "An open source temporary email tool, fully on Cloudflare. Inspired by oiov/vmail",
+      "description": "An open code to check HTTP",
       "highlights": [
-        "🎯 Privacy-friendly, no registration required, out-of-the-box",
-        "✨ Support saving passwords and retrieving email addresses",
-        "😄 Support multiple domain name suffixes",
-        "🚀 100% open source, fully based on Cloudflare."
+        
       ],
-      "url": "https://what-the-fuck.sbs",
-      "github": "https://github.com/MiraHikari/cloudflare-vmail"
+      "url": "https://github.com/alvaarogalvez/http-checker",
+      "github": "https://github.com/alvaarogalvez/http-checker"
     },
     {
-      "name": "Riddle Town Hunt 2",
+      "name": "RECON",
       "image": {
-        "url": "https://rth2-webstatic.gbclstudio.cn/wp-content/uploads/2024/02/1707656250-76b2b0d2c94824e89a2b8b2c7d1c6afe.png",
-        "position": "background"
+        "url": "https://cdn-nv.mo.cloudinary.net/media/uploads/2022/02/que-es-el-dns.jpg",
+        "position": "container",
+        "dark": "https://cdn-nv.mo.cloudinary.net/media/uploads/2022/02/que-es-el-dns.jpg"
       },
       "isActive": true,
-      "description": "Public decryption activity in the form of Puzzle Hunt.",
+      "description": "Script that retrieves DNS records for a given domain, including A (IP address), MX (mail servers), NS (name servers), and other relevant DNS information...",
       "highlights": [
-        "👌 More than 1000 people participated, system runs normally",
-        "😮‍ Use headless CMS: WordPress to storage and manage contents, dynamically render page",
-        "😊 Windows-like interface",
-        "💕 Based on Astro"
+        
       ],
-      "url": "https://rth2.gcxstudio.cn/"
+      "url": "https://github.com/alvaarogalvez/recon",
+      "github": "https://github.com/alvaarogalvez/recon"
     }
   ]
 }
