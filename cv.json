@@ -61,26 +61,36 @@
   },
   "education": [
     {
-      "institution": "Nanchang No.27 Middle School",
+      "institution": "Nuestra Señora de las Mercedes Granada",
       "url": "",
-      "area": "Regular Student",
+      "area": "Specialization Course in Cybersecurity in Information Technology Environments",
       "studyType": "Full-time student",
-      "startDate": "2021-9-01",
-      "endDate": null
+      "startDate": "2024-9-16",
+      "endDate": "2025-06-10"
+    },
+    {
+      "institution": "CES S.Ramón y Cajal",
+      "url": "",
+      "area": "ASIR",
+      "studyType": "Full-time student",
+      "startDate": "2022-9-16",
+      "endDate": "2024-05-30"
+    },
+    {
+      "institution": "IES PADRE SUAREZ",
+      "url": "",
+      "area": "SMR",
+      "studyType": "Full-time student",
+      "startDate": "2020-9-16",
+      "endDate": "2022-05-30"
     }
   ],
   "certificates": [
     {
-      "name": "Success has lived a day in the world.",
-      "date": "2010-04-14",
+      "name": "B1",
+      "date": "",
       "url": "",
-      "issuer": "Myself"
-    },
-    {
-      "name": "TCCP - Senior Cloud Architecture Engineer",
-      "date": "2023-05-01",
-      "url": "",
-      "issuer": "Tencent Cloud"
+      "issuer": ""
     }
   ],
   "work": [
