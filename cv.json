@@ -113,16 +113,6 @@
         "Implemented a cloud drive and verification code system."
       ],
       "skills": {
-        "PHP": "simple-icons:php",
-        "Node": "ri:nodejs-line",
-        "Golang": "simple-icons:go",
-        "Next.js": "ri:nextjs-fill",
-        "React": "mdi:react",
-        "SQL": "simple-icons:mysql",
-        "Git": "mdi:git",
-        "GitHub": "mdi:github",
-        "NestJS": "simple-icons:nestjs",
-        "Vue": "mdi:vuejs"
       }
     },
     {
@@ -145,20 +135,7 @@
         "Ensured smooth project execution."
       ],
       "skills": {
-        "HTML": "simple-icons:html5",
-        "CSS": "ri:css3-fill",
-        "JavaScript": "simple-icons:javascript",
-        "TypeScript": "simple-icons:typescript",
-        "Vite": "simple-icons:vite",
-        "Node": "ri:nodejs-line",
-        "Docker": "mdi:docker",
-        "WordPress": "ri:wordpress-fill",
-        "Astro": "simple-icons:astro",
-        "SQL": "simple-icons:mysql",
-        "Tailwind": "mdi:tailwind",
-        "React": "mdi:react",
-        "GitHub": "mdi:github",
-        "Git": "mdi:git"
+      
       }
     }
   ],
