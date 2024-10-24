@@ -95,44 +95,44 @@
   ],
   "work": [
     {
-      "name": "Sgguo Development Team",
-      "position": "Full-stack Developer",
-      "location_type": "Remote",
-      "location": "CN",
-      "url": "https://github.com/Sgguo-Development-Team",
-      "startDate": "2022-06-01",
-      "endDate": null,
-      "summary": "Developing high-availability full-stack projects.",
+      "name": "IntegraInformatica",
+      "position": "Systems and Network Administrator",
+      "location_type": "",
+      "location": "",
+      "url": "https://www.integrainformatica.es/",
+      "startDate": "",
+      "endDate": "2022",
+      "summary": "IT technician with practical experience in networking and computer systems administration.",
       "highlights": [
-        "Enhanced internal workflow efficiency by 30%."
+        "Configuration and assembly of systems for the University of Granada"
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Node.js and Golang."
+        "Configuration and repair of systems and network assembly"
       ],
       "achievements": [
-        "Implemented a cloud drive and verification code system."
+        "Migration of local infrastructure to cloud solutions, improving scalability", "disaster recovery plan that reduced recovery time from critical failures"
       ],
       "skills": {
       }
     },
     {
-      "name": "Riddle Town Team",
-      "position": "Full-stack Developer",
-      "location_type": "Remote",
-      "location": "CN",
-      "url": "https://rth2.gcxstudio.cn",
-      "startDate": "2023-01-01",
-      "endDate": "2024-02-11",
-      "summary": "Led page design and account systems.",
+      "name": "e-sistemas.net",
+      "position": "Network Computer Systems Administrator",
+      "location_type": "",
+      "location": "",
+      "url": "https://www.e-sistemas.net/",
+      "startDate": "",
+      "endDate": "2024",
+      "summary": "Active Directory Administrator, Backup Management, Systems Management",
       "highlights": [
         "Completed 95% of project content."
       ],
       "responsibilities": [
-        "Developed complete pages.",
-        "Integrated user-facing elements with server-side logic."
+        "Creating and reviewing projects in Active Directory",
+        "troubleshooting customer issues regarding computer systems"
       ],
       "achievements": [
-        "Ensured smooth project execution."
+        "installation of a network infrastructure","Creation of projects in Active Directory with various international companies"
       ],
       "skills": {
       
@@ -152,6 +152,26 @@
     {
       "name": "CSS",
       "icon": "ri:css3-fill",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "python",
+      "icon": "simple-icons:python",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "windows",
+      "icon": "simple-icons:windows",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
