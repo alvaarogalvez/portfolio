@@ -189,28 +189,8 @@
         "Fullstack"
       ]
     },
-    {
-      "name": "Tailwind",
-      "icon": "mdi:tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "icon": "simple-icons:typescript",
-      "level": "Expert",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
+    
+    
     {
       "name": "Node",
       "icon": "ri:nodejs-line",
@@ -233,17 +213,7 @@
         "Backend"
       ]
     },
-    {
-      "name": "MongoDB",
-      "icon": "simple-icons:mongodb",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "File",
-        "Data Storage",
-        "Backend"
-      ]
-    },
+    
     {
       "name": "Git",
       "icon": "mdi:git",
@@ -265,40 +235,7 @@
         "Git"
       ]
     },
-    {
-      "name": "Next.js",
-      "icon": "ri:nextjs-line",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "icon": "mdi:react",
-      "level": "Expert",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
-    {
-      "name": "Vue",
-      "icon": "mdi:vuejs",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
+   
     {
       "name": "Docker",
       "icon": "mdi:docker",
@@ -308,45 +245,7 @@
         "Backend"
       ]
     },
-    {
-      "name": "NestJS",
-      "icon": "simple-icons:nestjs",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "IOC"
-      ]
-    },
-    {
-      "name": "Vite",
-      "icon": "simple-icons:vite",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Build Tool"
-      ]
-    },
-    {
-      "name": "WordPress",
-      "icon": "ri:wordpress-fill",
-      "level": "Intermediate",
-      "keywords": [
-        "PHP",
-        "Fullstack",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "Golang",
-      "icon": "simple-icons:go",
-      "level": "Beginner",
-      "keywords": [
-        "Backend",
-        "Cloud Service"
-      ]
-    },
+
     {
       "name": "Astro",
       "icon": "simple-icons:astro",
@@ -378,52 +277,7 @@
         "Web Server"
       ]
     },
-    {
-      "name": "Tauri",
-      "icon": "simple-icons:tauri",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Rust",
-        "Webview"
-      ]
-    },
-    {
-      "name": "Rust",
-      "icon": "simple-icons:rust",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Webview"
-      ]
-    },
-    {
-      "name": "Socket.IO",
-      "icon": "simple-icons:socketdotio",
-      "level": "Beginner",
-      "keywords": [
-        "Realtime",
-        "Websocket"
-      ]
-    },
-    {
-      "name": "Electron",
-      "icon": "simple-icons:electron",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Webview"
-      ]
-    },
-    {
-      "name": "Shell",
-      "icon": "simple-icons:shell",
-      "level": "Intermediate",
-      "keywords": [
-        "Scripting",
-        "Automation"
-      ]
-    },
+
     {
       "name": "Linux",
       "icon": "simple-icons:linux",
@@ -432,41 +286,6 @@
         "OS",
         "Scripting",
         "Automation"
-      ]
-    },
-    {
-      "name": "Vercel",
-      "icon": "simple-icons:vercel",
-      "level": "Intermediate",
-      "keywords": [
-        "Serverless",
-        "Static Site Hosting"
-      ]
-    },
-    {
-      "name": "Netlify",
-      "icon": "simple-icons:netlify",
-      "level": "Intermediate",
-      "keywords": [
-        "Serverless",
-        "Static Site Hosting"
-      ]
-    },
-    {
-      "name": "Tencent Cloud",
-      "icon": "simple-icons:tencentqq",
-      "level": "Intermediate",
-      "keywords": [
-        "Cloud Service"
-      ]
-    },
-    {
-      "name": "Cloudflare Edge Functions",
-      "icon": "simple-icons:cloudflare",
-      "level": "Expert",
-      "keywords": [
-        "Serverless",
-        "Edge Computing"
       ]
     }
   ],
